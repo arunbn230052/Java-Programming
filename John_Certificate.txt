@@ -1,0 +1,7 @@
+Certificate of Achievement
+Student Name: John
+
+Subjects and Marks:
+Math - Practical: 12, Theory: 20
+Science - Practical: 15, Theory: 22
+Programming - Practical: 18, Theory: 25
